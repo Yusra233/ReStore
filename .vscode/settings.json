@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "ReStore.sln",
+    "audioCues.lineHasError": "on",
+    "C_Cpp.errorSquiggles": "enabled"
+}
